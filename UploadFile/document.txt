@@ -1,1 +1,2 @@
-Support from IE 10 and modern browsers.
+- Support from IE 10 and modern browsers.
+- The lib will take file then pass to base64 string.
