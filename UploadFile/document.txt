@@ -1,0 +1,1 @@
+Support from IE 10 and modern browsers.
